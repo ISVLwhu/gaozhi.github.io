@@ -1,0 +1,751 @@
+---
+title: "Zhi Gao Ph.D"
+---
+
+<div class="profile-header">
+  <div class="profile-photo-wrap">
+    <img src="images/Gaozhi.png" class="profile-photo" alt="Zhi Gao" />
+  </div>
+  <div class="profile-info">
+    <div class="profile-name">Zhi Gao Professor（高智 教授）</div>
+    <div class="profile-affiliation">
+      School of Remote Sensing and Information Engineering, Wuhan University<br/>
+      武汉大学遥感信息工程学院<br/>
+      <strong>Deputy Dean</strong>, National College for Excellent Engineers, Wuhan University<br/>
+      武汉大学国家卓越工程师学院副院长<br/>
+      <strong>Wechat</strong>:gaozhinuswhu
+    </div>
+    <div class="profile-email">
+      <a href="mailto:gaozhinus@gmail.com">gaozhinus@gmail.com</a><br/>
+      <a href="mailto:gaozhinus@whu.edu.cn">gaozhinus@whu.edu.cn</a><br/>
+    </div>
+  </div>
+</div>
+
+<h2 class="profile-section-title">Biography <span class="zh">(个人简介)</span></h2>
+<p class="bio-en">
+He is a recipient of the National Overseas High-Level Talent Program, Distinguished Professor of the Chutian Scholars Program of Hubei Province, and an Outstanding Young Scientist of Hubei Province, as well as a principal investigator of a Major Project of the National Natural Science Foundation of China. His research focuses on core problems in artificial intelligence, computer vision, and intelligent unmanned systems, and their applications in photogrammetry and remote sensing. He worked at the National University of Singapore for 11 years, successively serving as Postdoctoral Fellow, Research Fellow, Research Scientist, and independent Principal Investigator. He has led more than 20 government-funded projects from China and Singapore and 6 industry–academia collaborative projects with multinational companies. He has received over ten major awards, including the Outstanding Young Scientist Award of the Asian Conference on Artificial Intelligence (NAAI), the Second Prize of the Military Science and Technology Progress Award, the Second Prize of the Shaanxi Provincial Science and Technology Progress Award, the First Prize of the Guangdong Emergency and Safety Science and Technology Progress Award, the First Prize of the China Geomatics Science and Technology Progress Award, the Silver Medal of the International Exhibition of Inventions of Geneva, and the Second Prize of the Innovation Award of the China Invention Association. He has published over 110 papers, including 68 SCI-indexed articles in leading journals and conferences such as IEEE TPAMI, IJCV, IEEE TIP, ISPRS JPRS, IEEE TGRS, IEEE ITS, CVPR, ECCV, ICRA, and IROS. He has supervised 4 postdoctoral fellows, 12 Ph.D. students, and 33 master’s students, whose teams have won world championships three times, more than 50 national competition awards, and over ten other major prizes. He has also served as an associate editor or editorial board member for two journals, an editor or program committee member and session chair for three international conferences, and has been invited to give more than ten keynote or invited talks. He maintains extensive international collaborations with leading research institutions worldwide.
+</p>
+
+<p class="bio-zh">
+国家海外高层次人才计划获得者，湖北省楚天学者特聘教授，湖北省杰出青年科学基金获得者，国家自然科学基金委重大项目课题负责人。长期从事人工智能、计算机视觉与智能无人系统核心问题及其在测绘遥感领域应用研究。曾在新加坡国立大学工作11年，历任博士后、博士后研究员、研究员及独立PI。主持中国、新加坡政府科研项目20余项及跨国公司合作项目6项，获NAAI亚洲人工智能大会卓越青年科学家奖、军事科学技术进步二等奖、陕西省科学技术进步二等奖、广东省应急与安全科技进步一等奖、中国地理信息科技进步一等奖、瑞士日内瓦国际发明展银奖、中国发明协会发明创业奖创新奖二等奖等10余项科技奖励。发表学术论文110余篇，其中SCI论文68篇，发表于IEEE TPAMI、IJCV、IEEE TIP、ISPRS JPRS、IEEE TGRS、IEEE ITS、CVPR、ECCV、ICRA、IROS等国际顶级期刊与会议。培养博士后4人、博士生12人、硕士生33人，指导学生获得世界级大赛冠军3次、国内赛事奖项50余次及其他重要奖项10余次。曾担任2个期刊编委、3个国际会议的编辑、程序委员会成员及分论坛主席，受邀作大会或特邀报告10余次，并与国内外多家科研机构保持长期稳定的合作关系。
+</p>
+
+
+<h2 class="profile-section-title">Professional Experience <span class="zh">(工作经历)</span></h2>
+<ul class="profile-list">
+  <li>
+    <div class="en">
+     Professor, School of Remote Sensing and Information Engineering; Deputy Dean, National College for Excellent Engineers; Deputy Director, Office of International Affairs,Wuhan University (September 2019 – Present)    </div>
+    <div class="zh">
+      武汉大学遥感信息工程学院教授，卓越工程师学院副院长，国际交流部副部长（2019年9月 — 至今）
+    </div>
+  </li>
+  
+  <li>
+    <div class="en">
+      Research Scientist, Temasek Laboratories, National University of Singapore, Singapore (2014.03 — 2019.09)
+    </div>
+    <div class="zh">
+      新加坡国立大学Temasek实验室，研究员（2014年3月 — 2019年9月）
+    </div>
+  </li>
+  <li>
+    <div class="en">
+      Postdoctoral researcher and team leader, Department of Electrical and Electronics Engineering, National University of Singapore, Singapore (2008.06 — 2014.02)
+    </div>
+    <div class="zh">
+      新加坡国立大学电气与电子工程系，博士后研究员及团队负责人（2008年6月 — 2014年2月）
+    </div>
+  </li>
+  <li>
+    <div class="en">
+      Visiting scholar, University of Oxford, the United Kingdom (2014.11 — 2014.12)
+    </div>
+    <div class="zh">
+      英国牛津大学，访问学者（2014年11月 — 2014年12月）
+    </div>
+  </li>
+  <li>
+    <div class="en">
+      Visiting scholar, University of Illinois Urbana-Champaign, United States of America (2012.07 — 2012.10)
+    </div>
+    <div class="zh">
+      美国伊利诺伊大学香槟分校，访问学者（2012年7月 — 2012年10月）
+    </div>
+  </li>
+</ul>
+
+<h2 class="profile-section-title">Latest News <span class="zh">(最新动态)</span></h2>
+
+<ul class="profile-list news-list">
+  <li>
+    <a href="https://www.ctdsb.net/c1673_202511/2596740.html" target="_blank" rel="noopener">
+      <strong style="font-weight: bold;">11/2025</strong>
+      The CWT United team, formed by Professor Gao’s team and Professor Ben M. Chen's team from the Chinese University of Hong Kong, claimed the
+      <strong>"Dual Champion"</strong> title in both indoor and outdoor tracks at the 16th IMAV 2025 in Mexico
+      <br />
+      CWT United 团队（由高智教授团队与香港中文大学陈文俊院士团队联合组建）在第十六届国际小型无人机大赛（IMAV 2025，墨西哥）室内与室外赛道双双夺冠，荣获“双料冠军”
+    </a>
+  </li>
+
+  <li>
+    <a href="https://hb.chinadaily.com.cn/a/202506/17/WS6850e43da3102053770387b6.html" target="_blank" rel="noopener">
+      <strong>06/2025</strong>
+      Professor Zhi Gao's team won <strong> the Global Championship</strong> in the
+      <em>"Robust Anomaly Detection for Real-World Applications"</em> track of the IEEE CVPR Visual Anomaly Detection Challenge
+      <br />
+      高智教授团队在 IEEE CVPR 视觉异常检测挑战赛“面向真实应用的稳健异常检测”赛道中获得全球冠军
+    </a>
+  </li>
+
+  <li>
+    <a href="https://hb.chinadaily.com.cn/a/202506/17/WS6850e43da3102053770387b6.html" target="_blank" rel="noopener">
+       <strong>05/2022</strong>
+       Professor Zhi Gao's team has published several papers in top robotics, automation, and industrial application journals and conferences.
+       <br />
+      高智教授团队在机器人、自动化及工业应用领域的顶级期刊与国际会议上发表多篇高水平学术论文
+    </a>
+  </li>
+</ul>
+
+
+
+<h2 class="profile-section-title">Professional Services <span class="zh">(学术服务)</span></h2>
+<ul class="profile-list">
+  <li>
+    <div class="en">
+      <strong>Editorial Board Member</strong>: Unmanned Systems, The Photogrammetry Record, Journal of Geodesy and Geoinformation Science
+    </div>
+    <div class="zh">
+      期刊编委：Unmanned Systems、The Photogrammetry Record、测绘学报（英文版）
+    </div>
+  </li>
+  <li>
+    <div class="en">
+      <strong>Inaugural Expert</strong>： United Nations Global Big Data Centre
+    </div>
+    <div class="zh">
+      联合国大数据全球中心首批专家
+    </div>
+  </li>
+  <li>
+    <div class="en">
+      <strong>Deputy Director</strong>：Technical Committee on Information Fusion for Unmanned Systems, Chinese Society of Aeronautics and Astronautics
+    </div>
+    <div class="zh">
+      中国航空学会信息融合无人系统专委会副主任
+    </div>
+  </li>
+
+</ul>
+
+
+<h2 class="profile-section-title">Highlight Projects <span class="zh">(代表性项目)</span></h2>
+
+<ul class="profile-list">
+
+  <li>
+    <div class="en">
+      National Natural Science Foundation of China (NSFC) Major Project;
+      Funding: 3.70 million RMB;
+      Duration: 2021～2026;
+      Status: Ongoing
+    </div>
+    <div class="zh">
+      国家自然科学基金重大项目；
+      经费：370 万元；
+      周期：2021 ～ 2026；
+      状态：在研
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      Guangxi Major Science and Technology Project;
+      Funding: 0.56 million RMB ;
+      Duration: 2025 ～ 2026;
+      Status: Ongoing
+    </div>
+    <div class="zh">
+      广西科技重大项目；
+      经费：56 万元；
+      周期：2025 ～ 2026；
+      状态：在研
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      Key Laboratory Sustained Support Project: Agent Technology Research and Anomalous Change Detection;
+      Funding: 0.40 million RMB;
+      Duration: 2023 ～ 2027;
+      Status: Ongoing
+    </div>
+    <div class="zh">
+      重点实验室稳定支持项目；
+      经费：40 万元；
+      周期：2023 ～ 2027；
+      状态：在研
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      Aerospace Group High-Tech Enterprise Collaborative Project;
+      Funding: 0.38 million RMB;
+      Duration: 2022 ～ 2025;
+      Status: Ongoing
+    </div>
+    <div class="zh">
+      航天集团高科技企业合作项目；
+      经费：38 万元；
+      周期：2022 ～ 2025；
+      状态：在研
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      Central State-Owned Enterprise Key R&D Project;
+      Funding: 4.20 million RMB;
+      Duration: 2023 ～ 2025;
+      Status: Ongoing
+    </div>
+    <div class="zh">
+      央企攻关项目；
+      经费：420 万元；
+      周期：2023 ～ 2025；
+      状态：在研
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      Ministerial-Level Collaborative Project;
+      Funding: 0.85 million RMB;
+      Duration: 2023 ～ 2025;
+      Status: Completed
+    </div>
+    <div class="zh">
+      部委合作项目；
+      经费：85 万元；
+      周期：2023 ～ 2025；
+      状态：已结题
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      Multinational Corporation Collaborative Project;
+      Funding: 1.60 million RMB;
+      Duration: 2021 ～ 2024；
+      Status: Completed
+    </div>
+    <div class="zh">
+      跨国公司合作项目；
+      经费：160 万元；
+      周期：2021 ～ 2024；
+      状态：已结题
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      Hubei Provincial Outstanding Young Scientists Fund Project;
+      Funding: 0.30 million RMB;
+      Duration: 2021 ～ 2024;
+      Status: Completed
+    </div>
+    <div class="zh">
+      湖北省杰出青年科学基金项目；
+      经费：30 万元；
+      周期：2021 ～ 2024；
+      状态：已结题
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      High-Tech Enterprise Collaborative Project;
+      Funding: 1.00 million RMB;
+      Duration: 2023 ～ 2024;
+      Status: Completed
+    </div>
+    <div class="zh">
+      高科技企业合作项目；
+      经费：120 万元；
+      周期：2023 ～ 2024；
+      状态：已结题
+    </div>
+  </li>
+
+</ul>
+
+
+<h2 class="profile-section-title">Teaching Highlights <span class="zh">(教学课程)</span></h2>
+
+<ul class="profile-list">
+  <li>
+    <div class="en">
+      <a href="/scientific-writing/">Scientific Writing (Bilingual Instruction)</a>
+    </div>
+    <div class="zh">
+      <a href="/scientific-writing/">科技写作 （双语授课）</a>
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      <a href="/scientific-writing/">Computer Vision and Pattern Recognition</a>
+    </div>
+    <div class="zh">
+      <a href="/scientific-writing/">计算机视觉与模式识别</a>
+    </div>
+  </li>
+  
+  <li>
+    <div class="en">
+      <a href="/scientific-writing/">Advanced Topics in Photogrammetry (Taught in English)</a>
+    </div>
+    <div class="zh">
+      <a href="/scientific-writing/">摄影测量前沿技术 （全英文授课）</a>
+    </div>
+  </li>
+
+</ul>
+
+
+<h2 class="profile-section-title">Student Awards <span class="zh">(指导学生获奖)</span></h2>
+
+<ul class="profile-list">
+  <li>
+    <div class="en">
+      Double Champion of the 16th International Micro Air Vehicle (IMAV 2025) Competition
+    </div>
+    <div class="zh">
+      2025年第十六届国际小型无人机大赛（IMAV）双料冠军
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      Global Champion of the CVPR 2025 Visual Anomaly Detection Challenge
+    </div>
+    <div class="zh">
+      2025年CVPR视觉异常检测挑战赛全球冠军
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      The finals of the third Wuhan University Student "Hero Cup" Innovation and Entrepreneurship Competition,2024 (<strong>Prize: RMB 500,000</strong>)
+    </div>
+    <div class="zh">
+     2024年第三届武汉大学生“英雄杯”创新创业大赛决赛一等奖（<strong>奖金: 50万</strong>）
+    </div>
+  </li>
+
+  <li>
+    <div class="en">
+      The Excellent Paper Award at the 2024 Zhitian Forum
+    </div>
+    <div class="zh">
+      2024年智天论坛优秀学生论文
+    </div>
+  </li>
+
+
+  <li>
+    <div class="en">
+      Outstanding Winner of the 2023 Mathematical Contest in Modeling (MCM)
+    </div>
+    <div class="zh">
+      2023年美国大学生数学建模竞赛特等奖
+    </div>
+  </li>
+
+</ul>
+
+
+
+<h2 class="profile-section-title">Highlight Publications <span class="zh">(亮点论文)</span></h2>
+
+<h3 class="publication-section-title">Unmanned Systems <span class="zh">(无人系统)</span></h3>
+<div class="publications">
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/enhancing_the_utilization.png" alt="enhancing_the_utilization" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/abstract/document/11127522" target="_blank" rel="noopener">
+          Enhancing the Utilization of Color Information in Point Cloud Semantic Segmentation
+        </a>
+      </h3>
+      <div class="publication-authors">
+         Xinyu Guo; Zhi Gao; Zhiyu Zhou; Jingshi Wang; Luliang Tang; Min Cao
+      </div>
+      <div class="publication-journal">
+         IEEE International Conference on Robotics and Automation, 2025: 13478-13485.
+      </div> 
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/Accurate.png" alt="Accurate LiDAR-Camera Fused Odometry and RGB-Colored Mapping (RA-L 2024) cover" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/document/10410658" target="_blank" rel="noopener">
+          Accurate LiDAR-Camera Fused Odometry and RGB-Colored Mapping
+        </a>
+      </h3>
+      <div class="publication-authors">
+        Zhipeng Lin; Zhi Gao; Ben M. Chen; Jingwei Chen; Chenyang Li
+      </div>
+      <div class="publication-journal">
+        IEEE ROBOTICS AND AUTOMATION LETTERS, 9(3): 2495–2502 (2024).
+      </div>
+    </div>
+  </div>
+  
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/waterformer.png" alt="waterformer" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/document/10415308" target="_blank" rel="noopener">
+          WaterFormer: A Global–Local Transformer for Underwater Image Enhancement With Environment Adaptor
+        </a>
+      </h3>
+      <div class="publication-authors">
+        Junjie Wen; Jinqiang Cui; Guidong Yang; Benyun Zhao; Yu Zhai; Zhi Gao
+      </div>
+      <div class="publication-journal">
+        IEEE Robotics & Automation Magazine, 31(1): 29-40 (2024).
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/SGCalib.png" alt="SGCalib" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10610560" target="_blank" rel="noopener">
+          SGCalib: A two-stage camera-LiDAR calibration method using semantic information and geometric features
+        </a>
+      </h3>
+      <div class="publication-authors">
+        Zhipeng Lin; Zhi Gao; Xinyi Liu; Jialiang Wang; Weiwei Song; Ben M. Chen
+      </div>
+      <div class="publication-journal">
+        IEEE International Conference on Robotics and Automation, 2024: 14527-14533.
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/enyolo.png" alt="enyolo" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10610639" target="_blank" rel="noopener">
+          EnYOLO: a real-time framework for domain-adaptive underwater object detection with image enhancement
+        </a>
+      </h3>
+      <div class="publication-authors">
+        Junjie Wen; Jinqiang Cui; Benyun Zhao; Bingxin Han; Xuchen Liu; Zhi Gao
+      </div>
+      <div class="publication-journal">
+        IEEE International Conference on Robotics and Automation, 2024: 12613-12619.
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/loop_closure.png" alt="loop_closure" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10802610" target="_blank" rel="noopener">
+          Accurate and Efficient Loop Closure Detection With Deep Binary Image Descriptor and Augmented Point Cloud Registration
+        </a>
+      </h3>
+      <div class="publication-authors">
+        Jialiang Wang; Zhi Gao; Zhipeng Lin; Zhiyu Zhou; Xiaonan Wang; Jianhua Cheng
+      </div>
+      <div class="publication-journal">
+        IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024: 12573-12580.
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/underwater_object_detection.png" alt="underwater_object_detection" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10671252" target="_blank" rel="noopener">
+          Underwater object detection integrated with image enhancement
+        </a>
+      </h3>
+      <div class="publication-authors">
+        Junjie Wen; Jinqiang Cui; Guidong Yang; Benyun Zhao; Zhi Gao; Ben M. Chen
+      </div>
+      <div class="publication-journal">
+        IEEE International Conference on Real-time Computing and Robotics, 2024: 160-165.
+      </div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+  <div class="publication-image">
+    <img src="images/how_challenging.png" alt="how_challenging" />
+  </div>
+  <div class="publication-info">
+    <h3 class="publication-title">
+      <a href="https://link.springer.com/article/10.1007/s10846-024-02077-4" target="_blank" rel="noopener">
+        How challenging is a challenge? cems: a challenge evaluation module for slam visual perception
+      </a>
+    </h3>
+    <div class="publication-authors">
+        Xuhui Zhao, Zhi Gao, Hao Li, Hong Ji, Hong Yang, Chenyang Li, Hao Fang & Ben M. Chen 
+    </div>
+    <div class="publication-journal">
+      Journal of Intelligent & Robotic Systems, 110(1): 42 (2024).
+    </div>
+  </div>
+</div>
+
+
+
+</div>
+
+<h3 class="publication-section-title">Remote Sensing for Land-surface anomaly detection <span class="zh">(地表异常检测)</span></h3>
+
+<div class="publications">
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/data_augmentation_for.png" alt="enhancing_the_utilization" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/document/11242875" target="_blank" rel="noopener">
+          Data Augmentation For Remote Sensing Semantic Segmentation Via Controllable Diffusion Models
+        </a>
+      </h3>
+      <div class="publication-authors">
+         Mengjie Xie; Jianya Gong; Zhi Gao; Min Cao
+      </div>
+      <div class="publication-journal">
+         IEEE International Geoscience and Remote Sensing Symposium, 2025:6132-6136.
+      </div> 
+    </div>
+  </div>
+
+
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="images/ESAD-GPT.png" alt="ESAD-GPT" />
+    </div>
+    <div class="publication-info">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/document/11243288" target="_blank" rel="noopener">
+          ESAD-GPT: Earth’s Surface Anomaly Detection Using Large Vision-language Models
+        </a>
+      </h3>
+      <div class="publication-authors">
+        Xing-Ao Wang; Zhi Gao; Zhaohong Liao; Shuying Xia; Min Cao; Qiao Wang
+      </div>
+      <div class="publication-journal">
+        IEEE International Geoscience and Remote Sensing Symposium, 2025: 1007-1011.
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+<h2 class="profile-section-title">Representative Publications <span class="zh">(代表性研究成果)</span></h2>
+<ol class="publication-list">
+
+  <li>
+    <strong>Zhi Gao*</strong>, L-F Cheong, Y-X Wang.
+    Block-Sparse RPCA for Salient Motion Detection.
+    <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>,
+    36(10): 1975–1987 (2014).
+  </li>
+
+  <li>
+    L-F Cheong, <strong>Zhi Gao*</strong>.
+    Quasi-Parallax for Nearly Parallel Frontal Eyes – A Possible Role of Binocular Overlap During Rapid Locomotion.
+    <em>International Journal of Computer Vision</em>,
+    101(1): 45–63 (2014).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, R.F. Zhai, P.F. Wang, X. Yan, H. Qin, Y.Z. Tang, B. Ramesh.
+    Synergizing Appearance and Motion with Low Rank Representation for Vehicle Counting and Traffic Flow Analysis.
+    <em>IEEE Transactions on Intelligent Transportation Systems</em>,
+    19(8): 2675–2685 (2018).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, Q. Li, R.F. Zhai, M. Shan, F. Lin.
+    Adaptive and Robust Sparse Coding for Laser Range Data Denoising and Inpainting.
+    <em>IEEE Transactions on Circuits and Systems for Video Technology</em>,
+    26(12): 2165–2175 (2016). 
+  </li>
+
+  <li>
+    Y.J. Zhang*, F. Wen, <strong>Zhi Gao</strong>, X. Lin.
+    A Coarse-to-Fine Framework for Cloud Removal in Remote Sensing Image Sequence.
+    <em>IEEE Transactions on Geoscience and Remote Sensing</em>,
+    99(1): 1–12 (2019).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, Q. Li, R.F. Zhai.
+    Laser Range Data Denoising via Adaptive and Robust Dictionary Learning.
+    <em>IEEE Geoscience and Remote Sensing Letters</em>,
+    12(8): 1750–1754 (2015).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, H. Ji.
+    Transform Learning Based Sparse Coding for LiDAR Data Denoising.
+    <em>IEEE Signal Processing Letterss</em>,
+    26(3): 480–484 (2019).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, H. Ji, T.C. Mei, B. Ramesh.
+    EOVNet: Earth-Observation Image Based Vehicle Detection Network.
+    <em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em>,
+    accepted (2019).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, M. Lao, Y. Sang, F. Wen, B. Ramesh, R.F. Zhai.
+    Fast Sparse Coding for Range Data Denoising with Sparse Ridges Constraint.
+    <em>Sensors</em>,
+    18(5): 1449–1458 (2018). 
+  </li>
+
+  <li>
+    H. Ji, <strong>Zhi Gao*</strong>, T.C. Mei, Y.F. Li.
+    Improved Faster R-CNN with Multiscale Feature Fusion and Homography Augmentation for Vehicle Detection in Remote Sensing Images.
+    <em>IEEE Geoscience and Remote Sensing Letters</em>,
+    99(1): 1–5 (2019).
+  </li>
+
+  <li>
+    F. Wen, Y.J. Zhang, <strong>Zhi Gao*</strong>, X. Lin.
+    Two-Pass Robust Component Analysis for Cloud Removal in Satellite Image Sequence.
+    <em>IEEE Geoscience and Remote Sensing Letters</em>,
+    15(7): 1090–1094 (2018).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, H. Ji, T.C. Mei, B. Ramesh.
+    Vehicle Detection in Remote Sensing Images Leveraging on Simultaneous Super-resolution.
+    <em>IEEE Geoscience and Remote Sensing Letters</em>,
+    accepted (2019).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, P. Wang, R.F. Zhai, Y. Tang.
+    Lateral Placed Eyes vs Frontally Placed Eyes: Computational Comparison of Their Functions for Ego-motion Estimation.
+    <em>Journal of the Optical Society of America A</em>,
+    33(4): 501–507 (2016).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, B. Ramesh, W-Y. Lin, P. Wang, X. Yan, R.F. Zhai.
+    Efficient Velocity Estimation for MAVs by Fusing Motion from Two Frontally Parallel Cameras.
+    <em>Journal of Real-Time Image Processing</em>,
+    99(1): 1–12 (2018).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, Q. Li, M. Shan.
+    Painting Authentication via Adaptive and Robust Dictionary Learning.
+    <em>ACM Journal on Computing and Cultural Heritage</em>,
+    8(4): Article 22 (2015).
+  </li>
+
+  <li>
+    Y. Tang, <strong>Zhi Gao*</strong>, F. Lin, Y.F. Li, F. Wen.
+    Visual Adaptive Tracking for Monocular Omnidirectional Camera.
+    <em>Journal of Visual Communication and Image Representation</em>,
+    55: 253–262 (2018). 
+  </li>
+
+  <li>
+    X. Zheng, B. Ramesh*, <strong>Zhi Gao</strong>, Y. Yang, C. Xiang.
+    A Novel Framework for Robust Long-term Object Tracking in Real-time.
+    <em>Machine Vision and Applications</em>,
+    30(3): 529–539 (2019).
+  </li>
+
+  <li>
+    A. Lim, B. Ramesh*, Y. Yang, C. Xiang, <strong>Zhi Gao</strong>, F. Lin.
+    Real-time Optical Flow-based Video Stabilization for Unmanned Aerial Vehicles.
+    <em>Journal of Real-Time Image Processing</em>,
+    99(1): 1–12 (2017). 
+  </li>
+
+  <li>
+    B. Ramesh*, Z. Lim, L. Chen, C. Xiang, <strong>Zhi Gao</strong>.
+    Scalable Scene Understanding via Saliency Consensus.
+    <em>Soft Computing</em>,
+    23(7): 2429–2443 (2019). 
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, L-F Cheong, M. Shan.
+    Block-Sparse RPCA for Consistent Foreground Detection.
+    <em>ECCV</em>, Springer: 690–703 (2012).
+  </li>
+
+  <li>
+    <strong>Zhi Gao*</strong>, M. Shan, L-F Cheong, Q. Li.
+    Adaptive and Robust Sparse Coding for Painting Style Analysis.
+    <em>ACCV, Springer: 168–184 (2014).</em>
+  </li>
+
+  <li>
+    B. Ramesh*, S. Zhang, Z. Lee, <strong>Zhi Gao</strong>, G. Orchard, C. Xiang.
+    Long-term Object Tracking with a Moving Event Camera.
+    <em>BMVC: 241–252 (2018).</em>
+  </li>
+
+  <li>
+    X. Liu, <strong>Zhi Gao*</strong>, B. Ramesh, B.M. Chen.
+    Conditional GAN for Underwater Image Color Correction.
+    <em>BMVC (2019).</em>
+  </li>
+
+
+</ol>
+
+<section class="group-photos">
+  <h2 class="profile-section-title">
+    Group Photographs <span class="zh">(团队风采)</span>
+  </h2>
+
+  <div class="group-photos-grid">
+    <figure class="group-photo">
+      <img src="images/Group_1.jpg" alt="Group photo 1">
+    </figure>
+  </div>
+</section>

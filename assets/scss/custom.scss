@@ -1,0 +1,69 @@
+.cv {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+.cv-top {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 30px;
+  align-items: start;
+}
+
+.cv-photo img {
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 0;
+  border: 0;
+  display: block;
+}
+
+.cv-name {
+  font-size: 44px;
+  font-weight: 800;
+  margin: 0 0 10px 0;
+  line-height: 1.05;
+}
+
+.cv-meta {
+  font-size: 16px;
+  line-height: 1.35;
+}
+
+.cv-meta a {
+  text-decoration: underline;
+}
+
+.cv-gap {
+  height: 10px;
+}
+
+.cv-section {
+  margin-top: 44px;
+}
+
+.cv-section h2 {
+  font-size: 20px;
+  font-weight: 800;
+  margin: 0 0 10px 0;
+}
+
+.cv-subtitle {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 8px 0 8px 0;
+}
+
+.cv-section ul {
+  margin: 8px 0 0 22px;
+}
+
+.cv-section li {
+  margin: 4px 0;
+}
+
+.cv-par {
+  margin: 12px 0 0 0;
+}

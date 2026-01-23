@@ -1,0 +1,443 @@
+.profile-header{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 36px;
+  align-items: start;
+  max-width: 1020px;
+  margin: 0 0 80px 0;
+  padding: 40px 24px 0;
+}
+
+.profile-photo-wrap{
+  width: 180px;
+}
+
+.profile-photo{
+  width: 150px;
+  height: auto;
+  display: block;
+  border-radius: 0;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+
+.profile-name{
+  font-size: 44px;
+  font-weight: 800;
+  line-height: 1.05;
+  margin: 0 0 10px 10;
+}
+
+.profile-title{
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 2px 0;
+}
+
+.profile-affiliation{
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 0 0px 0;
+}
+
+.profile-email a{
+  text-decoration: underline;
+}
+
+
+.profile-list {
+  font-size: 17px;        /* 列表文字大小（核心） */
+  line-height: 1.5;       /* 行距，防止挤在一起 */
+  margin-left: 24px;      /* 整个列表向右缩进 */
+  margin-bottom: 20px;
+  max-width: 1500px;
+  word-wrap: break-word;  /* 允许文本换行 */
+  overflow-wrap: break-word;  /* 处理长单词的换行 */
+}
+
+.profile-list li {
+  margin-bottom: 10px;  /* 增加每个列表项的底部间距 */
+}
+
+h3.profile-section-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px; /* Add left margin for indentation */
+  margin-bottom: 10px;
+}
+
+.biography {
+  max-width: 1500px;      /* 控制整块简介的最大行宽 */
+  line-height: 1.7;     /* 行距更学术风格 */
+}
+
+/* 英文段落 */
+.bio-en {
+  font-size: 17px;   /* 略小一点，显得学术 */
+  color: #111;
+  margin-bottom: 0.5em;
+  line-height: 1.5;
+  max-width: 1500px;     /* 关键：限制每行字符数，自动换行更美观 */
+}
+
+/* 中文段落 */
+.bio-zh {
+  font-size: 17px;
+  color: #444;
+  line-height: 1.8;
+  max-width: 1500px;     /* 中文适合更窄的行宽 */
+}
+
+/* 防止超长单词或URL撑破布局 */
+.bio-en,
+.bio-zh {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  padding-left: 2.4em;
+}
+
+
+
+.news-section-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.news-list {
+  list-style-type: disc;
+  padding-left: 1.5em;   /* 控制缩进 */
+}
+
+.news-list li {
+  font-size: 16px;
+  line-height: 1.6;      /* 行距更舒服 */
+  margin-bottom: 8px;
+}
+
+/* 褐色圆点（重点） */
+.news-list li::marker {
+  color: #555;        /* 褐色，可自行改 */
+}
+
+.news-list li a {
+  text-decoration: none;
+  color: #555;
+  font-weight: bold;
+}
+
+.news-list li a:hover {
+  text-decoration: underline;
+  color: #555;
+}
+
+
+/* Main layout for the CV */
+.cv {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+.cv-top {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 30px;
+  align-items: start;
+}
+
+.cv-photo img {
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 0;
+  border: 0;
+  display: block;
+}
+
+.skip-link {
+  display: none;
+}
+
+/* Published Papers Section */
+:root{
+  --pub-title-size: 20px;      /* 文献标题字号 */
+  --pub-authors-size: 14px;    /* 作者字号（可调） */
+  --pub-journal-size: 14px;    /* 期刊字号（可调） */
+
+  --pub-gap-title-authors: 6px;   /* 标题 ↔ 作者 间距 */
+  --pub-gap-authors-journal: 3px; /* 作者 ↔ 期刊 间距 */
+  --pub-gap-journal-link: 6px;    /* 期刊 ↔ Link 间距（如有） */
+
+  --pub-lineheight-authors: 1.45; /* 作者行距 */
+  --pub-lineheight-journal: 1.45; /* 期刊行距 */
+}
+
+.publications {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-left: 40px; /* 为文献项添加左边距 */
+}
+
+.publication-item {
+  display: flex;
+  gap: 0px;
+  align-items: flex-start;
+}
+
+.publication-image {
+  width: 200px;
+}
+
+.publication-image img {
+  width: 80%;
+  height: auto;
+  object-fit: block;
+}
+
+.publication-info {
+  flex-grow: 1;
+  width: 100%; /* 容器宽度适应父容器 */
+  max-width: 1300px; /* 设置最大宽度 */
+  word-wrap: anywhere; /* 允许单词换行 */
+  word-break: break-word; /* 强制换行 */
+  margin: 0 0 0 0;
+}
+
+.publication-title {
+  font-size: var(--pub-title-size);
+  font-weight: bold;
+  margin: 0 0 var(--pub-gap-title-authors) 0; /* 关键：不要全 0 */
+  line-height: 1.2;
+}
+
+.publication-authors {
+  font-size: var(--pub-authors-size);
+  line-height: var(--pub-lineheight-authors);
+  margin: 0 0 var(--pub-gap-authors-journal) 0; /* 作者与期刊的间隔 */
+}
+
+
+.publication-journal {
+  font-style: italic;
+  font-size: var(--pub-journal-size);
+  line-height: var(--pub-lineheight-journal);
+  margin: 0 0 var(--pub-gap-journal-link) 0; /* 期刊与 Link 的间隔 */
+}
+
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+strong {
+  font-weight: bold; /* 强制加粗 */
+}
+
+/* Publications List layout */
+.publication-list {
+  max-width: 1300px;          /* 控制整块文献区域的宽度（关键） */
+  margin-left: 24px;         /* 和左边标题拉开一点距离 */
+  padding-left: 20px;
+}
+
+/* 每一条文献 */
+.publication-list li {
+  line-height: 1.5;          /* 行距（建议 1.6～1.8） */
+  margin-bottom: 5px;       /* 每条文献之间的垂直间距 */
+  font-size: 18px;           /* 字号略大，更学术 */
+  /* 自动换行核心 */
+  max-width: 1300px;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* IF 单独弱化一点，显得专业 */
+.publication-list .if {
+  font-style: italic;
+  color: #555;
+  margin-left: 4px;
+}
+
+h3.publication-section-title {
+  font-size: 20px; /* 设置稍小的字体 */
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px; /* 控制标题间距 */
+  margin-left: 20px;
+}
+
+
+
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.lang-switch{
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+.lang-switch a{
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 6px 10px;
+  border: 1px solid rgba(0,0,0,0.25);
+  border-radius: 6px;
+}
+
+.lang-switch a:hover{
+  text-decoration: underline;
+}
+
+.profile-section-title .zh,
+.publication-section-title .zh {
+  font-size: 0.80em;          /* 比英文小 */
+  font-weight: 600;           /* 不要太粗 */
+  color: #555;                /* 浅灰色 */
+  margin-left: 10px;           /* 与英文稍微拉开 */
+  font-family: "SimSun", "STSong", "Songti SC", serif;
+}
+
+.course-title .zh,
+.course-section-title .zh {
+  font-size: 0.85em;
+  opacity: 0.65;
+  font-weight: 600;
+}
+
+.course-quicklinks {
+  margin: 12px 0 20px;
+}
+
+/*
+.course-hero{
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 16px;
+  align-items: start;
+  margin: 18px 0 26px;
+}*/
+
+.course-hero{
+  display: grid;
+  grid-template-columns: minmax(320px, 500px) minmax(0, 1fr);
+  column-gap: 16px;
+  row-gap: 16px;
+  align-items: start;
+  margin: 18px 0 26px;
+  justify-content: start;
+}
+
+.course-hero-image img{
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+}
+
+.course-hero-text{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-width: 60ch;
+  width: 100%;
+}
+
+.course-hero-text p{
+  margin: 0;
+  line-height: 1.5;
+  overflow-wrap: anywhere; /* 长单词/长URL也能断行 */
+  word-break: break-word;  /* 兼容性兜底 */
+}
+
+
+.course-hero-caption {
+  font-size: 0.85em;
+  opacity: 0.7;
+  margin-top: 6px;
+}
+
+.course-bullets{
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  line-height: 1.55;
+  margin: 2px 0 0 18px;
+  padding-left: 16px;
+}
+
+.course-meta,
+.course-downloads {
+  margin: 10px 0 0 18px;
+}
+
+/*
+.course-table th:nth-child(1),
+.course-table td:nth-child(1) {
+  width: 8ch;;
+  text-align: center;}
+
+.course-table th:nth-child(2),
+.course-table td:nth-child(2) {
+  width: 40ch;
+  line-height: 1.45;
+  text-align: center;
+}
+
+.course-table th:nth-child(3),
+.course-table td:nth-child(3) {
+  width: 10ch;
+  text-align: center;
+}
+
+.course-table th:nth-child(4),
+.course-table td:nth-child(4) {
+  width: 10ch;
+  text-align: center;
+}
+*/
+
+.course-table{
+  max-width: 1000px;
+  width: 100%;              /* 表格总宽度 = 父容器宽度 */
+  border-collapse: collapse;
+  margin-top: 10px;
+  table-layout: fixed;      /* 必须：让 colgroup 生效且稳定 */
+}
+
+.course-table th,
+.course-table td{
+  text-align: center; /* 水平居中 */
+  vertical-align: middle; /* 垂直居中 */
+  border-bottom: 1px solid rgba(0,0,0,0.12);
+  padding: 10px 8px;
+  vertical-align: top;
+
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+
+.page-title {
+  display: none;
+}
+
+.course-page{
+  width: 100%;
+}
+
+.group-photos-grid {
+  grid-template-columns: 1fr;
+}
+
+.group-photo {
+  max-width: 900px;
+}
+
+
